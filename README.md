@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cuerry.Cuerry&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cuerry.Cuerry&right_color=slateblue"  />
 </div>
 
 ###
