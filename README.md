@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">I'm Cuerry.<br><br>- 🔭 I work as a penguin.<br>- 📚 Currently, I am learning ways to improve.<br>-⚡ In my free time, I code.</h4>
+<h4 align="left">I'm Cuerry.<br><br>- 🔭 I work as a penguin.<br>-⚡ In my free time, I code.</h4>
 
 ###
 
