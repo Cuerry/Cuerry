@@ -55,9 +55,10 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cuerry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cuerry&theme=dark&hide_border=false" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cuerry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cuerry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cuerry&theme=dark&hide_border=false" height="160" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cuerry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+-->
 </div>
 
 ###
