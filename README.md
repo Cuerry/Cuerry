@@ -1,4 +1,4 @@
-Hey there 👋
+<!-- Hey there 👋 -->
 
 <!--
 **Cuerry/Cuerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/76ca4aa1d537d81aba3f70b8f355718cb173b92a48236f0def65c02c7cd904e7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f4144443477365867714c424a6f685164424b2f67697068792e6769663f6369643d656366303565343739637634706c32783261343369776c6f64396870387a77666c307033636e68687a717161317932752665703d76315f676966735f72656c61746564267269643d67697068792e6769662663743d67"  />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ###
 
 <h4 align="left">I'm Cuerry.<br><br>- 🔭 I work as a penguin.<br>-⚡ In my free time, I code.</h4>
-
+-->
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+<!--
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -58,7 +58,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Cuerry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cuerry&theme=dark&hide_border=false" height="165" />
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cuerry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
--->
+
 </div>
+-->
 
 ###
