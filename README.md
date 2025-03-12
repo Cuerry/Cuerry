@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <div align="left">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,html,react,js,java,php,mysql,py,kotlin,arduino,fastapi,gcp,npm,nodejs,ps,terraform,postgres,blender,androidstudio,clion,idea,eclipse,sublime,vscode,visualstudio,apple,windows,linux,ubuntu,arch" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,html,react,js,java,php,mysql,py,kotlin,arduino,fastapi,gcp,npm,nodejs,ps,terraform,postgres,blender,unity,androidstudio,clion,idea,eclipse,sublime,vscode,visualstudio,github,git,gitlab,apple,windows,linux,ubuntu,arch" />
   </a>
 </p>
 </div>
